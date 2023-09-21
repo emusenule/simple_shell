@@ -1,0 +1,4 @@
+#!/bin/bash
+
+parent_pid=$PPID
+echo "Parent PID: $parent_pid"
